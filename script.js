@@ -29,7 +29,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="a"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -65,7 +65,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////LETTER B ////////////////////////////*/
@@ -79,7 +79,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="b"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -115,7 +115,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /* ///////////////////////////////LETTER C //////////////////////////////////////*/
@@ -129,7 +129,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="c"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -165,7 +165,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////////////LETTER D ///////////////////////////////*/
@@ -179,7 +179,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="d"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -215,7 +215,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////////LETTER E /////////////////////////////////*/
@@ -229,7 +229,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="e"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -265,7 +265,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////////////////////LETTER F ///////////////////////////////*/
@@ -279,7 +279,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="f"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -315,7 +315,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////////LETTER G ///////////////////////////*/
@@ -329,7 +329,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="g"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -365,7 +365,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////////////LETTER H ///////////////////////////*/
@@ -379,7 +379,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="h"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -415,7 +415,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////LETTER I //////////////////////////////*/
@@ -429,7 +429,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="i"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -465,7 +465,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////////LETTER J ////////////////////////////////*/
@@ -479,7 +479,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="j"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -515,7 +515,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////////////////LETTER K ///////////////////////*/
@@ -529,7 +529,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="k"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -565,7 +565,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////LETTER L ////////////////////*/
@@ -579,7 +579,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="l"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -615,7 +615,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////LETTER M ///////////////////////////////*/
@@ -629,7 +629,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="n"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -665,7 +665,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////////LETTER N ////////////////////////*/
@@ -679,7 +679,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="n"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -715,7 +715,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////LETTER O //////////////////////////*/
@@ -729,7 +729,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="o"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -765,7 +765,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////////////LETTER P //////////////////////////////*/
@@ -779,7 +779,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="p"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -815,7 +815,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////LETTER Q ////////////////////////////*/
@@ -829,7 +829,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="q"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -865,7 +865,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////////////////LETTER R /////////////////////////*/
@@ -879,7 +879,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="r"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -915,7 +915,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////////LETTER S //////////////////////////*/
@@ -929,7 +929,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="s"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -965,7 +965,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////////////LETTER T //////////////////////////////*/
@@ -979,7 +979,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="t"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1015,7 +1015,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////////////////// LETTER U ////////////////////////////////////*/
@@ -1029,7 +1029,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="u"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1065,7 +1065,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////////////////LETTER V //////////////////////////////*/
@@ -1079,7 +1079,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="v"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1115,7 +1115,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*////////////////////////////////////LETTER W ///////////////////////////*/
@@ -1129,7 +1129,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="w"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1165,7 +1165,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*//////////////////////////////////////////LETTER X ///////////////////////*/
@@ -1179,7 +1179,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="x"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1215,7 +1215,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /*/////////////////////////LETTER Y ////////////////////////*/
@@ -1229,7 +1229,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="y"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1265,7 +1265,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
     /* ///////////////////////////////LETTER Z //////////////////////////*/
@@ -1279,7 +1279,7 @@ document.getElementById("myButton").addEventListener("click", () => {
                 my_a ="z"
                 if (myNotHidden.join("") === myInput) {
                     document.body.style.backgroundColor = "rgb(100, 250, 100)";
-                    alert("You Won! Refresh Page to play again!");
+                    alert("You Won! Click 'new Game' to play again!");
                     document.getElementsByClassName("myImg")[0].src = "static/images.png/HangmanWin.png";
                 }
             }
@@ -1315,7 +1315,7 @@ document.getElementById("myButton").addEventListener("click", () => {
         else if (myImage == 7) {
             document.getElementsByClassName("myImg")[0].src = "static/images.png/Hangman7.png";
             document.body.style.backgroundColor = "rgb(250, 100, 100)";
-            alert("You Lost! Refresh Page to try again!");
+            alert("You Lost! Click 'new Game' to try again!");
         }
     })
 })
