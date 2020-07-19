@@ -1,5 +1,7 @@
 # Hangman
 
+##This is my [Hangman](https://alexjs6.github.io/Hangman/) game.
+
 This was an optional task in the JS Chapter.
 You can find the instructions here: https://github.com/becodeorg/BXL-Swartz-3-21/blob/master/05-Javascript/hangman.adoc
 
@@ -68,6 +70,6 @@ Done after 1 month and a half into Becode.
     
 It is mostly finished but still working on some things.
 
-![Hangman]("static/images.png/ReadMe.png")
+![Hangman](static/images.png/ReadMe.png)
 
 Enjoy!
